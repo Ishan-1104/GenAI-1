@@ -4,3 +4,11 @@ langchain-openai
 python-dotenv
 langchain-mistralai
 langchain-community
+
+streamlit>=1.36
+langchain>=0.3
+langchain-mistralai>=0.2
+langchain-core>=0.3
+tavily-python>=0.5
+python-dotenv>=1.0
+requests>=2.31
